@@ -1,0 +1,3 @@
+[run]
+source = circle
+omit = circle/test*
